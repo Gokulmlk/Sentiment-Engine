@@ -1,0 +1,56 @@
+2026-03-29 22:14:12,950 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:14:12,955 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:14:19,100 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:14:19,103 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:14:21,045 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:14:21,054 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:14:23,456 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:14:23,460 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:15:22,070 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:15:22,073 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:15:32,732 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:15:32,735 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:17:18,297 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:17:18,301 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:17:20,304 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.72 | strength=0.87
+2026-03-29 22:17:20,305 [INFO] SignalGenerator - Signal: BUY ADA | conf=0.62 | strength=0.47
+2026-03-29 22:19:39,279 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:19:39,282 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:19:41,284 [INFO] SignalGenerator - Signal: BUY ETH | conf=0.56 | strength=0.58
+2026-03-29 22:19:41,285 [INFO] SignalGenerator - Signal: BUY BNB | conf=0.71 | strength=0.72
+2026-03-29 22:19:43,290 [INFO] SignalGenerator - Signal: BUY AAPL | conf=0.56 | strength=0.38
+2026-03-29 22:19:43,292 [INFO] SignalGenerator - Signal: SELL DOGE | conf=0.45 | strength=0.61
+2026-03-29 22:19:45,294 [INFO] SignalGenerator - Signal: BUY BTC | conf=0.67 | strength=0.48
+2026-03-29 22:19:45,295 [INFO] SignalGenerator - Signal: BUY SPY | conf=0.58 | strength=0.61
+2026-03-29 22:19:49,303 [INFO] SignalGenerator - Signal: BUY ADA | conf=0.56 | strength=0.57
+2026-03-29 22:20:01,328 [INFO] SignalGenerator - Signal: BUY TSLA | conf=0.70 | strength=0.38
+2026-03-29 22:20:07,338 [INFO] SignalGenerator - Signal: BUY SOL | conf=0.62 | strength=0.50
+2026-03-29 22:20:11,344 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.57 | strength=0.58
+2026-03-29 22:50:04,580 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:50:29,700 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:52:47,309 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 22:52:47,319 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 22:52:49,321 [INFO] SignalGenerator - Signal: BUY BTC | conf=0.75 | strength=0.62
+2026-03-29 22:52:49,322 [INFO] SignalGenerator - Signal: BUY ADA | conf=0.52 | strength=0.53
+2026-03-29 22:52:50,438 [INFO] werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3000
+ * Running on http://192.168.1.33:3000
+2026-03-29 22:52:50,438 [INFO] werkzeug - [33mPress CTRL+C to quit[0m
+2026-03-29 22:52:53,330 [INFO] SignalGenerator - Signal: BUY SOL | conf=0.57 | strength=0.66
+2026-03-29 22:52:53,334 [INFO] SignalGenerator - Signal: BUY DOGE | conf=0.51 | strength=0.45
+2026-03-29 22:52:55,337 [INFO] SignalGenerator - Signal: BUY ETH | conf=0.53 | strength=0.62
+2026-03-29 22:52:57,348 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.58 | strength=0.52
+2026-03-29 22:53:03,357 [INFO] SignalGenerator - Signal: BUY SPY | conf=0.61 | strength=0.55
+2026-03-29 22:53:03,360 [INFO] SignalGenerator - Signal: BUY BNB | conf=0.66 | strength=0.57
+2026-03-29 22:53:07,363 [INFO] SignalGenerator - Signal: BUY AAPL | conf=0.58 | strength=0.39
+2026-03-29 22:53:47,400 [INFO] SignalGenerator - Signal: BUY TSLA | conf=0.50 | strength=0.41
+2026-03-29 23:26:55,352 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-29 23:26:55,358 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-29 23:26:59,367 [INFO] SignalGenerator - Signal: BUY SOL | conf=0.60 | strength=0.58
+2026-03-29 23:26:59,368 [INFO] SignalGenerator - Signal: BUY DOGE | conf=0.84 | strength=0.77
+2026-03-29 23:27:03,374 [INFO] SignalGenerator - Signal: BUY AAPL | conf=0.84 | strength=0.74
+2026-03-29 23:27:03,375 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.71 | strength=0.49
+2026-03-29 23:27:05,378 [INFO] SignalGenerator - Signal: BUY ADA | conf=0.73 | strength=0.47
+2026-03-29 23:27:07,383 [INFO] SignalGenerator - Signal: BUY TSLA | conf=0.71 | strength=0.47
+2026-03-29 23:27:07,384 [INFO] SignalGenerator - Signal: BUY SPY | conf=0.76 | strength=0.64

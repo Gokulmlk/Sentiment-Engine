@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  sentiment-engine:
+    build: .
+    container_name: fear-greed-engine
+    command: python api_server.py
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./logs:/app/logs
+      - ./exports:/app/exports
+    environment:
+      - LOG_LEVEL=INFO
+    restart: unless-stopped
+
+  # Uncomment for production caching
+  # redis:
+  #   image: redis:7-alpine
+  #   ports:
+  #     - "6379:6379"

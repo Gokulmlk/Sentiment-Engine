@@ -1,0 +1,212 @@
+{
+  "export_timestamp": "2026-03-29T23:35:25.560917",
+  "market_summary": {
+    "timestamp": "2026-03-29T23:35:25.562924",
+    "market_mood": "Bullish",
+    "sentiment_score": 0.3976,
+    "sentiment_trend": "increasing",
+    "fear_greed_index": 88.17,
+    "fear_greed_level": "Extreme Greed",
+    "data_points_analyzed": 262,
+    "total_messages_processed": 262,
+    "processing_rate": 523.06
+  },
+  "all_assets": {
+    "BTC": {
+      "sentiment": 0.458,
+      "fear_greed": 88.3,
+      "level": "Extreme Greed",
+      "data_points": 31
+    },
+    "ETH": {
+      "sentiment": 0.4,
+      "fear_greed": 85.0,
+      "level": "Extreme Greed",
+      "data_points": 23
+    },
+    "SOL": {
+      "sentiment": 0.497,
+      "fear_greed": 95.0,
+      "level": "Extreme Greed",
+      "data_points": 27
+    },
+    "TSLA": {
+      "sentiment": 0.101,
+      "fear_greed": 85.0,
+      "level": "Extreme Greed",
+      "data_points": 39
+    },
+    "SPY": {
+      "sentiment": 0.385,
+      "fear_greed": 87.5,
+      "level": "Extreme Greed",
+      "data_points": 24
+    },
+    "AAPL": {
+      "sentiment": 0.449,
+      "fear_greed": 85.0,
+      "level": "Extreme Greed",
+      "data_points": 30
+    },
+    "NVDA": {
+      "sentiment": 0.327,
+      "fear_greed": 80.0,
+      "level": "Extreme Greed",
+      "data_points": 24
+    },
+    "DOGE": {
+      "sentiment": 0.444,
+      "fear_greed": 90.0,
+      "level": "Extreme Greed",
+      "data_points": 22
+    },
+    "BNB": {
+      "sentiment": 0.606,
+      "fear_greed": 100.0,
+      "level": "Extreme Greed",
+      "data_points": 18
+    },
+    "ADA": {
+      "sentiment": 0.496,
+      "fear_greed": 100.0,
+      "level": "Extreme Greed",
+      "data_points": 24
+    }
+  },
+  "recent_signals": [
+    {
+      "timestamp": "2026-03-29T23:34:57.519437",
+      "asset": "NVDA",
+      "signal_type": "SELL",
+      "confidence": 0.618,
+      "strength": 0.429,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Negative sentiment momentum (-0.40), Fear/Greed at 50.0 (Fear), momentum +0.000",
+      "fear_greed_at_signal": 50.0,
+      "sentiment_score": -0.3434
+    },
+    {
+      "timestamp": "2026-03-29T23:34:59.520964",
+      "asset": "BTC",
+      "signal_type": "BUY",
+      "confidence": 0.475,
+      "strength": 0.544,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.62), Fear/Greed at 73.8 (Greed), momentum +0.000",
+      "fear_greed_at_signal": 73.81,
+      "sentiment_score": 0.4355
+    },
+    {
+      "timestamp": "2026-03-29T23:34:59.520964",
+      "asset": "ADA",
+      "signal_type": "BUY",
+      "confidence": 0.857,
+      "strength": 0.69,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.78), Fear/Greed at 100.0 (Greed), momentum +0.000",
+      "fear_greed_at_signal": 100.0,
+      "sentiment_score": 0.552
+    },
+    {
+      "timestamp": "2026-03-29T23:35:03.526305",
+      "asset": "DOGE",
+      "signal_type": "BUY",
+      "confidence": 0.857,
+      "strength": 0.382,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.43), Fear/Greed at 100.0 (Greed), momentum +0.000",
+      "fear_greed_at_signal": 100.0,
+      "sentiment_score": 0.3057
+    },
+    {
+      "timestamp": "2026-03-29T23:35:03.527360",
+      "asset": "BNB",
+      "signal_type": "BUY",
+      "confidence": 0.857,
+      "strength": 0.52,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.59), Fear/Greed at 100.0 (Greed), momentum +0.000",
+      "fear_greed_at_signal": 100.0,
+      "sentiment_score": 0.4162
+    },
+    {
+      "timestamp": "2026-03-29T23:35:05.529742",
+      "asset": "SPY",
+      "signal_type": "BUY",
+      "confidence": 0.836,
+      "strength": 0.52,
+      "expected_duration": "Medium-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.61), Fear/Greed at 100.0 (Greed), momentum +0.000",
+      "fear_greed_at_signal": 100.0,
+      "sentiment_score": 0.4158
+    },
+    {
+      "timestamp": "2026-03-29T23:35:07.531876",
+      "asset": "SOL",
+      "signal_type": "BUY",
+      "confidence": 0.857,
+      "strength": 0.385,
+      "expected_duration": "Short-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.33), Fear/Greed at 100.0 (Greed), momentum +0.200",
+      "fear_greed_at_signal": 100.0,
+      "sentiment_score": 0.3082
+    },
+    {
+      "timestamp": "2026-03-29T23:35:07.531876",
+      "asset": "TSLA",
+      "signal_type": "BUY",
+      "confidence": 0.454,
+      "strength": 0.463,
+      "expected_duration": "Short-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.25), Fear/Greed at 72.9 (Greed), momentum +0.576",
+      "fear_greed_at_signal": 72.92,
+      "sentiment_score": 0.3708
+    },
+    {
+      "timestamp": "2026-03-29T23:35:11.535173",
+      "asset": "ETH",
+      "signal_type": "BUY",
+      "confidence": 0.638,
+      "strength": 0.507,
+      "expected_duration": "Short-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.37), Fear/Greed at 81.2 (Greed), momentum +0.386",
+      "fear_greed_at_signal": 81.25,
+      "sentiment_score": 0.4059
+    },
+    {
+      "timestamp": "2026-03-29T23:35:11.536187",
+      "asset": "AAPL",
+      "signal_type": "BUY",
+      "confidence": 0.683,
+      "strength": 0.468,
+      "expected_duration": "Short-term",
+      "risk_level": "High",
+      "reasoning": "Positive sentiment momentum (0.47), Fear/Greed at 85.3 (Greed), momentum +0.189",
+      "fear_greed_at_signal": 85.29,
+      "sentiment_score": 0.3746
+    }
+  ],
+  "signal_stats": {
+    "total": 10,
+    "buy": 9,
+    "sell": 1,
+    "avg_confidence": 0.713
+  },
+  "performance_metrics": {
+    "uptime_seconds": 0.0,
+    "messages_processed": 4,
+    "processing_rate_per_min": 4000.0,
+    "signals_generated": 0,
+    "assets_tracked": 10,
+    "queue_size": 0
+  }
+}

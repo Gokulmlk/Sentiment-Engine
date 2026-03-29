@@ -1,0 +1,24 @@
+# Fear & Greed Sentiment Engine — Dependencies
+# Core (no extra install needed — uses Python stdlib)
+# numpy is optional but improves analytics
+
+# Required for REST API server
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Optional: for production use
+numpy>=1.24.0
+
+# Optional: for real API integrations (replace simulation)
+# requests>=2.31.0
+# tweepy>=4.14.0       # Twitter API
+# praw>=7.7.0          # Reddit API
+# newsapi-python>=0.2.7  # NewsAPI.org
+
+# Optional: for database persistence
+# sqlalchemy>=2.0.0
+# psycopg2-binary>=2.9.0   # PostgreSQL
+# redis>=5.0.0             # Redis caching
+
+# Development / testing
+pytest>=7.4.0
