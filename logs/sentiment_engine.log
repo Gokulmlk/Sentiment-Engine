@@ -1,0 +1,26 @@
+2026-03-30 00:06:18,095 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-30 00:06:18,104 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-30 00:06:22,113 [INFO] SignalGenerator - Signal: BUY SOL | conf=0.73 | strength=0.59
+2026-03-30 00:06:24,117 [INFO] SignalGenerator - Signal: BUY TSLA | conf=0.71 | strength=0.55
+2026-03-30 00:06:24,119 [INFO] SignalGenerator - Signal: BUY AAPL | conf=0.71 | strength=0.38
+2026-03-30 00:06:24,120 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.86 | strength=0.45
+2026-03-30 00:06:26,123 [INFO] SignalGenerator - Signal: BUY BTC | conf=0.56 | strength=0.38
+2026-03-30 00:06:28,127 [INFO] SignalGenerator - Signal: BUY DOGE | conf=0.70 | strength=0.45
+2026-03-30 00:06:30,129 [INFO] SignalGenerator - Signal: BUY ETH | conf=0.73 | strength=0.40
+2026-03-30 00:06:30,129 [INFO] SignalGenerator - Signal: BUY SPY | conf=0.56 | strength=0.44
+2026-03-30 00:06:42,140 [INFO] SignalGenerator - Signal: BUY BNB | conf=0.81 | strength=0.52
+2026-03-30 00:07:42,736 [INFO] FearGreedEngine - Fear & Greed Engine initialized
+2026-03-30 00:07:42,745 [INFO] DataIngestion - Started 4 ingestion threads
+2026-03-30 00:07:46,751 [INFO] SignalGenerator - Signal: BUY SPY | conf=0.59 | strength=0.58
+2026-03-30 00:07:46,753 [INFO] SignalGenerator - Signal: BUY DOGE | conf=0.75 | strength=0.46
+2026-03-30 00:07:48,756 [INFO] SignalGenerator - Signal: BUY ETH | conf=0.84 | strength=0.46
+2026-03-30 00:07:48,760 [INFO] SignalGenerator - Signal: BUY NVDA | conf=0.48 | strength=0.48
+2026-03-30 00:07:50,763 [INFO] SignalGenerator - Signal: BUY BTC | conf=0.86 | strength=0.53
+2026-03-30 00:07:50,767 [INFO] SignalGenerator - Signal: BUY AAPL | conf=0.82 | strength=0.41
+2026-03-30 00:07:50,768 [INFO] SignalGenerator - Signal: BUY ADA | conf=0.84 | strength=0.40
+2026-03-30 00:07:56,778 [INFO] SignalGenerator - Signal: BUY TSLA | conf=0.68 | strength=0.50
+2026-03-30 00:07:56,780 [INFO] SignalGenerator - Signal: BUY BNB | conf=0.88 | strength=0.41
+2026-03-30 00:07:58,781 [INFO] SignalGenerator - Signal: BUY SOL | conf=0.72 | strength=0.38
+2026-03-30 00:08:18,247 [INFO] DataIngestion - Ingestion engine stopped
+2026-03-30 00:08:18,248 [INFO] FearGreedEngine - Engine stopped
+2026-03-30 00:08:18,260 [INFO] FearGreedEngine - Data exported to exports/fear_greed_export_20260330_000818.json
